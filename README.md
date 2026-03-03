@@ -1,2 +1,2 @@
 # Exercícios
-Reoisitório dedicado a armazenar os exercicios da disciplina.
+Repositório dedicado a armazenar os exercicios da disciplina.
